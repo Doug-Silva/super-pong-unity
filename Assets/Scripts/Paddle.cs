@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class NewMonoBehaviourScript : MonoBehaviour
 {
-    //velocidade
     public float speed = 5;
 
     private void Update()
